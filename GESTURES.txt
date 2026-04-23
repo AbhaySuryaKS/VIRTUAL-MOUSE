@@ -1,0 +1,32 @@
+Virtual Mouse Gesture List
+
+1. Move cursor
+   Show your hand normally and move your index finger.
+
+2. Left click
+   Touch thumb tip to index finger tip briefly.
+
+3. Right click
+   Touch thumb tip to middle finger tip briefly.
+
+4. Drag
+   Hold the left-click pinch longer.
+
+5. Scroll
+   Extend four fingers upward.
+
+6. Draw toggle
+   Touch thumb tip to ring finger tip.
+
+7. Voice command
+   Show only index and middle fingers up, with ring finger and pinky folded.
+   Hold it steady for a short moment to start listening.
+
+Supported voice commands
+- open notepad
+- open browser
+- take screenshot
+- capture screenshot
+- mute volume
+- maximize window
+- clear canvas

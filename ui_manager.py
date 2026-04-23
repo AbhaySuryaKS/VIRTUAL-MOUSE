@@ -13,8 +13,7 @@ class UIManager:
         ctk.set_appearance_mode("Dark")
         self.app = ctk.CTk()
         self.app.title("Virtual Mouse Panel")
-        self.app.geometry("400x500")
-        
+        self.app.geometry("500x500")
         sw = get_monitors()[0].width
         sh = get_monitors()[0].height
         self.draw_root = tk.Toplevel(self.app)

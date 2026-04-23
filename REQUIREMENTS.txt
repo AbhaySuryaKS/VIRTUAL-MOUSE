@@ -1,0 +1,9 @@
+mediapipe==0.10.33
+opencv-python==4.13.0.92
+numpy==2.4.4
+PyAutoGUI==0.9.54
+PyGetWindow==0.0.9
+SpeechRecognition==3.16.0
+PyAudio==0.2.14
+pywin32==311
+Pillow==12.2.0

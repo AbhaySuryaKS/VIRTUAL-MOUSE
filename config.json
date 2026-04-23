@@ -1,1 +1,21 @@
-{"sensitivity": 0.09446666666666666, "smoothing": 3.8499999999999996}
+{
+  "preset": "Balanced",
+  "scroll_sensitivity": 700.0,
+  "click_pinch_threshold": 0.12,
+  "draw_pinch_threshold": 0.05,
+  "dead_zone_radius": 0.035,
+  "confirmation_window": 5,
+  "drag_activation_frames": 7,
+  "drag_release_confirmation_frames": 3,
+  "canvas_alpha": 0.32,
+  "gesture_map": {
+    "left_click": "thumb_index_pinch",
+    "right_click": "thumb_middle_pinch",
+    "draw_toggle": "thumb_ring_pinch"
+  },
+  "voice_ai": {
+    "enabled": false,
+    "api_key": "",
+    "model": "gemini-2.0-flash"
+  }
+}
